@@ -18,6 +18,11 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
+/*
+This method will be used to fetch data from excel sheet.
+Total columns = 5
+ */
+
 public class ExcelFileConnect {
 //    public static Workbook book;
 //    public static Sheet sheet;
