@@ -7,7 +7,7 @@ public class ConditionOperators {
         System.out.println(i==j);
 
         //Switch-case
-        String browser = "Opera";
+        String browser = "Safari";
         switch (browser){
             case "Chrome":
                 System.out.println("Launch chrome browser");
@@ -15,7 +15,7 @@ public class ConditionOperators {
             case "Firefox":
                 System.out.println("Launch Firefox browser");
                 break;
-            case "safari":
+            case "Safari":
                 System.out.println("Launch safari browser");
                 break;
             case "IE":
